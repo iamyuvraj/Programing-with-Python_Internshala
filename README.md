@@ -6,5 +6,4 @@ Here you will find </br>
 2. Module Problem Statements and Solutions </br>
 3. Final Quiz </br> 
 4. Final Problem Statement and Solution </br>
-</br>
 P.S. These Solutions were downloaded using the 'Download instructor's solution' Button after the module/course completion.
